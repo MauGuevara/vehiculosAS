@@ -1,0 +1,13 @@
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\vehiculo\vehiculo\bin\Debug\netcoreapp3.1\vehiculo.exe
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\vehiculo\vehiculo\bin\Debug\netcoreapp3.1\vehiculo.deps.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\vehiculo\vehiculo\bin\Debug\netcoreapp3.1\vehiculo.runtimeconfig.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\vehiculo\vehiculo\bin\Debug\netcoreapp3.1\vehiculo.runtimeconfig.dev.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\vehiculo\vehiculo\bin\Debug\netcoreapp3.1\vehiculo.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\vehiculo\vehiculo\bin\Debug\netcoreapp3.1\vehiculo.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\vehiculo\vehiculo\obj\Debug\netcoreapp3.1\vehiculo.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\vehiculo\vehiculo\obj\Debug\netcoreapp3.1\vehiculo.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\vehiculo\vehiculo\obj\Debug\netcoreapp3.1\vehiculo.AssemblyInfo.cs
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\vehiculo\vehiculo\obj\Debug\netcoreapp3.1\vehiculo.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\vehiculo\vehiculo\obj\Debug\netcoreapp3.1\vehiculo.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\vehiculo\vehiculo\obj\Debug\netcoreapp3.1\vehiculo.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\vehiculo\vehiculo\obj\Debug\netcoreapp3.1\vehiculo.genruntimeconfig.cache
